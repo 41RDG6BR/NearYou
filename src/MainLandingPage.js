@@ -25,7 +25,6 @@ import useInView from "use-in-view";
 /* Hero */
 const Row = tw.div`flex`;
 const NavRow = tw(Row)`flex flex-col sm:flex-row items-center justify-between`;
-const DownloadLink = tw.a`mt-8 sm:mt-0 transition duration-300 font-medium pb-1 border-b-2 text-primary-500 border-purple-300 hocus:border-primary-500`;
 const HeroRow = tw(Row)`flex-col lg:flex-row justify-between items-center py-20 lg:py-24 max-w-screen-2xl mx-auto`;
 
 const Column = tw.div``;
