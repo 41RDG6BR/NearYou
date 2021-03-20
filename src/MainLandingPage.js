@@ -123,9 +123,6 @@ export default ({
               <img src={logo} alt="" />
               Treact
             </LogoLink>
-            <DownloadLink target="_blank" href="https://gum.co/QaruQ">
-              Download Now
-            </DownloadLink>
           </NavRow>
           <HeroRow>
             <TextColumn>
